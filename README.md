@@ -4,4 +4,5 @@ HOLOGRAM（Python）
 · You can use them to generate computer-generated holograms in different ways   
 
 HOLOGRAM（Matlab）  
-. CRGH
+. CGRH: A simple algorithm for generating computer-generated rainbow holograms.  
+. The parameters of hologram and slit can be modified.
