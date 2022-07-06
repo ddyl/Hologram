@@ -1,4 +1,4 @@
-
+%Zhejiang Normal University
 
 I0 = imread("30.bmp");
 d2pi = 1;
